@@ -17,6 +17,6 @@ I've made this GitHub the homebase to showcase the projects that best depict the
 
 ## Takeaways 
 
-#### The markdown files in each folder are the detailed summaries of the projects, and the reasoning and methods of how I approached and completed each part of the project that I've worked on. 
+#### The markdown files in each folder are the detailed summaries of the projects, including the reasoning and the methods of how I approached and completed each part of the project that I've worked on. 
 
 #### They will be labled as "projectoverview.md". Each folder is structured so that upon reading the summary, if you are curious about further details that I did not mention, you are able to reference the actual project files that I've used to complete the assignment. 
