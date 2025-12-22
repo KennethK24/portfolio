@@ -1,6 +1,6 @@
 # Introduction - Mechanical Engineering Projects Portfolio 
 
-Hello there! Thank you for taking a look at my portfolio!     
+Hello there! Thank you for taking the time to look at my portfolio!     
 
 I've made this GitHub the homebase to showcase the projects that best depict the skills I've picked up so far.  
 <sub> (GitHub is surprisingly good at organizing and displaying stuff) </sub>
