@@ -2,7 +2,7 @@
 
 Hello there! Thank you for taking a look at my portfolio!     
 
-I've made this GitHub the homebase for showcasing the projects that best depict the skills I've picked up so far.  
+I've made this GitHub the homebase to showcase the projects that best depict the skills I've picked up so far.  
 <sub> (GitHub is surprisingly good at organizing and displaying stuff) </sub>
 
 #### In this repository, each folder is titled with the project name. Within each folder there will be a markdown file with at least five of these components to help guide you through from project prompt to presentation:
