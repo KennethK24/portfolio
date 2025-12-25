@@ -12,7 +12,7 @@ I've made this GitHub the homebase to showcase the projects that best depict the
 This is where the project's main tasks and goals are described. Essentially, it can be thought of the as main summary of the project.
 
 #### Background 
-This is where the technical terms are explained. If there is less common terminology described in the introduction, chances are it might be in here, so if at anytime you find a word or method that is unfamiliar please check here! Figures of the definitions will also be referenced here.    
+This is where the technical terms are explained. If there is less common terminology described in the introduction, chances are it might be in here, so if at anytime you find a word or method that is unfamiliar please check here! Figures of the definitions helping to explain will also be referenced here.    
 
 It may be worth reading through the entirety of the introduction before referencing the background. From my persepective, it may be easier to follow along the description first, then the definition of each new terminology.  
 
@@ -26,7 +26,8 @@ The equations used in the project. The technical explanations of the project. Ea
 
 
 #### General Discussion/Conclusion 
-The part where I discuss the results and what they achieved or how they connect back to the initial introduction.   
+The part where I discuss the results and what they achieved or how they connect back to the initial introduction.  
+
 
 ### The markdown files in each folder are the detailed summaries of the projects, including the reasoning and the methods of how I approached and completed each part of the project that I've worked on. 
 
