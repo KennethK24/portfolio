@@ -16,6 +16,6 @@ This is where the images and renders of the projects are located. The captions u
 #### How to use: 
 To access the powerpoint presentation, click on the Projects Presentation.pptx on and click the "view raw" link to download the presentation.  
 
-In the presentation there is a table of contents with rectangle next to each project title that you can ctrl+click to jump to each project. If you wanted to return to the table of contents, click the first title slide of each project and then click on the "Back to Table of Contents". <br><br>
+In the presentation there is a table of contents with rectangle next to each project title that you can ctrl+click to jump to each project. If you wanted to return to the table of contents, click the first title slide of each project and then click on the "Back to Table of Contents". <br>
 
 If you are in an another slide, click on the house shaped button on the bottom left to jump to the title slide of the project and then ctrl+click to go back to the Table of Contents.
